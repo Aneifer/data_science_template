@@ -8,7 +8,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
-|Iskriyana | [iskriyana](https://github.com/Iskriyana) |
+|Anna Neifer [aneifer](https://github.com/Aneifer) |
 
 ### Methods Used
 * Inferential Statistics
